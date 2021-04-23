@@ -1,0 +1,40 @@
+#info { border:solid 10px black;
+        margin:50px;
+        padding:30px;
+        background-color:Lightgrey;    }
+
+#inscript {border:solid 10px black;
+           padding:30px;
+           background-color:yellow;}
+
+#pret {border:solid 10px black;
+    margin:50px;
+    background-color:pink;  
+
+}
+section {font-family: Arial;
+    background-color: rgb(255,299,155);}
+
+#formulaire{ display:inline-block;
+             margin:auto;
+             width:300px;
+}    
+
+#laSaisie{
+    display:inline-block;
+    width:140px;
+    line-height:30px;    
+}
+
+.bouton{width:360px;}
+
+#fondPestin{
+    background-image: url("C:\xampp\htdocs\LaMedia\images\Pestin-des-grèves");
+    color:yellow;
+    font-size: 22px;
+    font-style: oblique;
+    text-align: left;
+    font-weight: bold;
+}
+
+        
